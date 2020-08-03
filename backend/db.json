@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Caderno 100FL",
+      "price": 20.99
+    },
+    {
+      "id": 3,
+      "name": "MacBook air",
+      "price": 9000.99
+    },
+    {
+      "name": "PC",
+      "price": "7199.99",
+      "id": 5
+    }
+  ]
+}
